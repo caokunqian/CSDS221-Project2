@@ -4,4 +4,7 @@ I have trouble using stackblitz.com since vuetify does not work
 
 To test it you can use command windows and type following:
 
-cd /d yourlocalpathofthefile npm run serve npm install
+cd /d yourlocalpathofthefile 
+npm install
+npm run serve 
+
