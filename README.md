@@ -2,7 +2,7 @@
 
 To test it you can use command windows and type following:
 
-- cd /d yourlocalpathofthefile 
+- cd to the file's path
 - npm install
 - npm run serve 
 
